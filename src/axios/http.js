@@ -21,6 +21,7 @@ import "nprogress/nprogress.css"
 // function endLoading() {    //使用Element loading-close 方法
 //     loading?.close()
 // }
+axios.defaults.baseURL = 'api'
 
 // 请求拦截  设置统一header
 axios.interceptors.request.use(config => {

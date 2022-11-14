@@ -1,5 +1,8 @@
 # Project nema
-项目名称
+echarts_project
+
+# Project details
+echarts大屏自适应方法
 
 ## Project setup
 ```
